@@ -1,16 +1,43 @@
-# generic
 
-A new Flutter project.
+# Article App
+## _Flutter App to Get News_
 
-## Getting Started
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This project is a starting point for a Flutter application.
+Article App is Aflutter App That help To knew News 
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- ✨BLOC✨
+- Dark Theme
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<img align="left" width="270" height="570" src="Screenshots/1.png">
+<img align="left" width="270" height="570" src="Screenshots/2.png">
+<img align="left" width="270" height="570" src="Screenshots/3.png">
+<img align="left" width="270" height="570" src="Screenshots/4.png">
+<img align="left" width="270" height="570" src="Screenshots/5.png">
+<img  width="270" height="570" src="Screenshots/6.png">  
+
+
+
+## Features
+
+- Get Article News From New Times 
+
+## Plugins
+
+
+
+| Plugin | README |
+| ------ | ------ |
+| Bloc | [https://pub.dev/packages/flutter_bloc][PlDb] |
+| dio | [https://pub.dev/packages/dio][PlGh] |
+| hexcolor| [https://pub.dev/packages/hexcolor][PlGd] |
+
+
+   [PlDb]: <https://pub.dev/packages/bloc>
+   [PlGh]: <https://pub.dev/packages/dio>
+   [PlGd]: <https://pub.dev/packages/hexcolor>
+   
