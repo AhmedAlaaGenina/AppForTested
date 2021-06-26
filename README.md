@@ -9,6 +9,8 @@ Article App is Aflutter App That help To knew News
 - Flutter
 - ✨BLOC✨
 - Dark Theme
+- Null Safty
+- Dio (Api)
 
 
 ## Screenshots
