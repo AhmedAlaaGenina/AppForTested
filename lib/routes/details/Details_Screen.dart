@@ -29,7 +29,7 @@ class DetailsScreen extends StatelessWidget {
                         child: FlexibleSpaceBar(
                           background: Image.network(
                             detailsModel.multimedia![0].url!,
-                            fit: BoxFit.cover,
+                            fit: BoxFit.fill,
                           ),
                         ),
                       ),

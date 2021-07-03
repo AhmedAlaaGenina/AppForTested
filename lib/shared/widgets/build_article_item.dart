@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:generic/cubit/app_cubit.dart';
 import 'package:generic/cubit/app_cubit.dart';
 import 'package:generic/model/results_model.dart';
 import 'package:generic/route_generator.dart';
@@ -39,7 +36,7 @@ class BuildArticleItem extends StatelessWidget {
                   Image.network(
                     model!.multimedia![4].url!,
                     width: double.infinity,
-                    height: 200,
+                    height: double.infinity,
                     fit: BoxFit.fill,
                   ),
                   GridTileBar(
